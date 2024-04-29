@@ -25,7 +25,6 @@ The dataset used in this project is `Mall_Customers.csv`, which contains the fol
 1. Clone the repository:
 
 ```
-git clone https://github.com/JAHNAVIDINGARI04/Mll_Coustomer.git
 ```
 
 2. Navigate to the project directory:
